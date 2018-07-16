@@ -1,0 +1,10 @@
+export const primary = '#002447';
+export const primaryLight = '#79c5e7';
+export const primaryDark = '#707070';
+export const divider = '#49495866';
+export const btnOne = '#014a7f';
+export const btnTwo = '#00a99e';
+export const btnCancel = '#fe931f';
+export const backGroundMenuLeft = '#fff';
+export const textColor = '#000000';
+export const colorItemSelectorPress = '#0000004D';
